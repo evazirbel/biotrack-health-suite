@@ -1,0 +1,18 @@
+# Kompilierte Java-Klassendateien
+*.class
+
+# Paket-Dateien
+*.jar
+*.war
+
+# Build- & IDE-Verzeichnisse
+bin/
+out/
+target/
+.idea/
+.vscode/
+*.iml
+
+# OS-spezifisch
+Thumbs.db
+.DS_Store
